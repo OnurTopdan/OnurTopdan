@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Erdem</h1>
-<h3 align="center">Software Developer (25y) from Turkey,Istanbul</h3>
+<h1 align="center">Hi 👋, I'm Onur</h1>
+<h3 align="center">Frontend Developer (25y) from Turkey,Kastamonu</h3>
 
 
 ### 🛠 Tech Stack
@@ -36,7 +36,7 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/erdemgokmuharrem">
+<a href="https://github.com/OnurTopdan">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=erdemgokmuharrem&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="erdemgokmuharrem"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdemgokmuharrem&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="erdemgokmuharrem"/>
 </a>
