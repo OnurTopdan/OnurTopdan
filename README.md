@@ -37,16 +37,15 @@
 
 <p align="center">
 <a href="https://github.com/OnurTopdan">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=erdemgokmuharrem&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="erdemgokmuharrem"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdemgokmuharrem&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="erdemgokmuharrem"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=OnurTopdan&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="OnurTopdan"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OnurTopdan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="OnurTopdan"/>
 </a>
 </p>
 
 ### 🤝🏻 Social
 
 <p align="left">
-<a href="https://twitter.com/erdemgmo" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://stackoverflow.com/users/10633039/erdem-g%c3%b6kmuharremo%c4%9flu" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
+<a href="https://twitter.com/1TapciN" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
  
 
 </p>
